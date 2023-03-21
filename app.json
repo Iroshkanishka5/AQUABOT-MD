@@ -9,7 +9,7 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": "AQUA=RpYE2SxZ#ZVCQno4_8wiO5m3gZK-UNqTkcaZnRp5CT7btJuoOd0Q",
             "required": true
              },
             "NO_ONLINE": {
@@ -38,18 +38,18 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Irosh kanishka" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94760327260" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
@@ -75,7 +75,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 Irosh-𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Irosh ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -141,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲Irosh ⃨𝚋oƚ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -156,7 +156,7 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
